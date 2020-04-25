@@ -1,2 +1,2 @@
-# delete-porn-history
-A chrome extension to delete porn websites history.
+# delete-sensitive-history
+A chrome extension to delete sensitive websites history.
